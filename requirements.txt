@@ -1,0 +1,12 @@
+pandas
+numpy
+requests
+feedparser
+beautifulsoup4
+lxml
+trafilatura
+tqdm
+scikit-learn
+matplotlib
+seaborn
+tensorflow
